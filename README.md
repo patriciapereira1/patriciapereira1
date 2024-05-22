@@ -2,7 +2,8 @@
 - 👀 Estou interessada em desenvolvimento web e design de interface do usuário
 - 🌱 Atualmente estou aprendendo React.js e UX Design
 - 💞 Estou procurando colaborar em projetos de código aberto relacionados ao desenvolvimento web
-- 📫 Você pode me alcançar enviando um e-mail para patriciapereirag89@gmail.com
+- 📫 Você pode me alcançar enviando um e-mail para patriciapereirag89@gmail.com ou pelo
+-  meu LinkedIn www.linkedin.com/in/patrícia-pereira-709393174
 - 😄 Pronomes: Ela/Dela
 - ⚡ Fato divertido:Tenho um histórico acadêmico forte e consistentemente tiro notas altas, como 9.9, nas minhas disciplinas. 😊
 
