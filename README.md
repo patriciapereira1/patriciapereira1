@@ -1,6 +1,6 @@
-- 👋 Olá, eu sou @patriciapereira1
+- 👋 Olá, eu sou a Patrícia
 - 👀 Estou interessada em desenvolvimento Front-End
-- 🌱 Atualmente estou aprendendo HTML e CSS
+- 🌱 Atualmente estou aprendendo HTML CSS e JavaScript 
 - 💞 Estou procurando colaborar em projetos de código aberto relacionados ao desenvolvimento Front
 - 📫 Você pode me alcançar enviando um e-mail para patriciapereirag89@gmail.com ou pelo
 -  meu LinkedIn www.linkedin.com/in/patrícia-pereira-709393174
