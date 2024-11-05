@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou aprendendo HTML CSS e JavaScript 
 - 💞 Estou procurando colaborar em projetos de código aberto relacionados ao desenvolvimento Front
 - 📫 Você pode me alcançar enviando um e-mail para patriciapereirag89@gmail.com ou pelo
--  meu LinkedIn www.linkedin.com/in/patrícia-pereira-709393174
+-  meu LinkedIn https://linkedin.com/in/patriciapereirag
 - 😄 Pronomes: Ela/Dela
 - ⚡ Fato divertido:“Eu adoro cozinhar e experimentar novas receitas. Minha especialidade? Comida mineira!😊
 
